@@ -1,4 +1,3 @@
-# sales-recommendation
 # Sales Recommendation System
 
 Welcome to the sales-recommendation repository. This project aims to harness the power of machine learning to predict sales and provide product recommendations. By leveraging algorithms like XGBoost and other recommendation techniques, we aim to offer insights that can drive sales strategies and enhance customer experiences.
